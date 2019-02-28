@@ -1,11 +1,11 @@
 # ZeroSploit
 this tool with web user-interface for information gathering of web application and network scaning with nmap tool
 
-> using Django Framwork
+> using Django Framework
 
 > using Nmap tool 
 
-> for linux
+> for Linux
 
 > you must using from Django v1.1.4
 
