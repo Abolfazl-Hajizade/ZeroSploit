@@ -7,6 +7,8 @@ this tool with web user-interface for information gathering of web application a
 
 > for linux
 
+> you must using from Django v1.1.4
+
 <br>
 <h3>requiement modules:</h3>
 
@@ -23,7 +25,7 @@ this tool with web user-interface for information gathering of web application a
 
 > python ZeroSploit.py
 
-<h1>webserver runing on 127.0.0.1:8000</h1>
+<h2>webserver runing on 127.0.0.1:8000</h2>
 
 <img src="https://raw.githubusercontent.com/Abolfazl-Hajizade/ZeroSploit/master/home.png"/>
 
