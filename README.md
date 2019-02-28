@@ -5,6 +5,8 @@ this tool with web user-interface for information gathering of web application a
 
 > using Nmap tool 
 
+> for linux
+
 <br>
 <h3>requiement modules:</h3>
 
