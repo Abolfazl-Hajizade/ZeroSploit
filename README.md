@@ -18,6 +18,8 @@ this tool with web user-interface for information gathering of web application a
 
 > pip install bs4
 
+> run install.py for install django and modules
+
 <br>
 <h3>run Commands:</h3>
 
