@@ -7,6 +7,7 @@ this tool with web user-interface for information gathering of web application a
 
 <br>
 <h3>requiement modules:</h3>
+
 > pip install requests
 
 > pip install netifaces
@@ -15,6 +16,7 @@ this tool with web user-interface for information gathering of web application a
 
 <br>
 <h3>run Commands:</h3>
+
 > python install.py
 
 > python ZeroSploit.py
