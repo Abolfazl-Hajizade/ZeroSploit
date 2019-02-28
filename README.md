@@ -5,3 +5,21 @@ this tool with web user-interface for information gathering of web application a
 
 > using Nmap tool 
 
+
+requiement modules:
+> pip install requests
+
+> pip install netifaces
+
+> pip install bs4
+
+
+run Commands:
+> python install.py
+
+> python ZeroSploit.py
+
+web server runing on 127.0.0.1:8000
+
+
+
