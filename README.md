@@ -10,7 +10,7 @@ this tool with web user-interface for information gathering of web application a
 > you must using from Django v1.1.4
 
 <br>
-<h3>requriment modules:</h3>
+<h3>requriement modules:</h3>
 
 > pip install requests
 
