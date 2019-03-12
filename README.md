@@ -27,7 +27,7 @@ this tool with web user-interface for information gathering of web application a
 
 > python ZeroSploit.py
 
-<h2>webserver runing on 127.0.0.1:8000</h2>
+<h2>webserver run on 127.0.0.1:8000</h2>
 
 <img src="https://raw.githubusercontent.com/Abolfazl-Hajizade/ZeroSploit/master/home.png"/>
 
